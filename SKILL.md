@@ -3,8 +3,9 @@ name: chance-operations
 description: A methodology for using randomization to bypass ego and unlock possibilities that intention would filter out.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3557
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - chance-operations
 - writing
